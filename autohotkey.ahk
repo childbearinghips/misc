@@ -7,7 +7,7 @@ NumpadHome::
 return
 
 NumpadLeft::
-        WinMove,A,,	0,912, 1410, 170
+	WinMove,A,,	0,912, 1410, 170
 return
 
 #Up::
@@ -17,3 +17,5 @@ return
 #Down::
 	WinMove,A,, 	0, 13, 1410, 900
 return
+
+#N:: Run firefox.exe

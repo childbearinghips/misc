@@ -3,4 +3,5 @@ NumpadHome::
 return
 
 NumpadLeft::
-  WinMove,A,,	0,912, 1010, 170
+        WinMove,A,,	0,912, 1010, 170
+return

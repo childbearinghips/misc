@@ -1,4 +1,3 @@
-tiling2
+misc
 =======
-
-tiling for single 1080p monitor screens
+a bunch of random things
